@@ -212,7 +212,7 @@ section{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(../images/home-img3.jpg) no-repeat;
+    background: url(../home-img3.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
